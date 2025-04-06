@@ -1,0 +1,3 @@
+Z:/cpp/Library-Management/cmake-build-debug/CMakeFiles/Library_Management.dir
+Z:/cpp/Library-Management/cmake-build-debug/CMakeFiles/edit_cache.dir
+Z:/cpp/Library-Management/cmake-build-debug/CMakeFiles/rebuild_cache.dir
